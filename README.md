@@ -1,3 +1,3 @@
-# PackLedger Assets
+# Assets
 
-Public image assets for PackLedger integrations, including the unRAID application icon.
+Public image assets for the unRAID application icon.
